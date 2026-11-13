@@ -9,5 +9,5 @@ Strongest chess engine in 4 KB of Python (make.fun tiny-chess-01).
 Practice (local kit): trial-0 Elo 1396 (3W/2D/3L), trial-1 Elo 989
 (1W/1D/6L). Mean 1192.5. Sibling v12c trial-0 1464.
 
-`main.py` is the engine (lzma+base85 packed, 4075 bytes, cap 4096).
+`main.py` is the engine (kit-compressed lzma, 3342 bytes, cap 4096).
 MIT licensed.
